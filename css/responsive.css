@@ -1,0 +1,137 @@
+@media only screen and (max-width: 768px) {
+
+    .mobile-hide{
+        display: none;
+    }
+    .navbar-links{
+        text-align: center;
+
+    }
+    .home{
+        margin-left: 0px;
+    }
+    .img-text {
+        margin-top: -45px;
+}
+    .img-text p {
+    letter-spacing: 5px;
+    margin-left: -25px;
+    font-size: 10px;
+}
+    .img-text h3 {
+    font-size: 18px;
+    margin-left: -202px;
+    letter-spacing: 5px;
+    margin-top: 15px;
+}
+    .img-text2 {
+        margin-top: -45px;
+    }
+    .img-text2 p {
+    letter-spacing: 5px;
+    margin-left: -25px;
+    font-size: 10px;
+    }
+    .img-text2 h3 {
+    font-size: 18px;
+    margin-left: -205px;
+    letter-spacing: 5px;
+    margin-top: 15px;
+    }
+    .img-text3 {
+        margin-top: -45px;
+    }
+    .img-text3 p {
+    letter-spacing: 5px;
+    margin-left: -240px;
+    font-size: 10px;
+    }
+    .img-text3 h3 {
+    font-size: 18px;
+    margin-left: -240px;
+    letter-spacing: 2px;
+    margin-top: 15px;
+    }
+    .shop-btn{
+        margin-left: -217px;
+        margin-top: 63px;
+        font-size: 10px;
+    }
+    .img-height{
+        height: 236px;
+    }
+    .shop-btn2 {
+        margin-left: -256px;
+        margin-top: 62px;
+        font-size: 10px;
+}
+    .shop-btn3 {
+    margin-left: -240px;
+    margin-top: 62px;
+    font-size: 10px;
+}
+.carousel-control-prev {
+    left: 25px;
+}
+.carousel-control-next-icon {
+    margin-left: 30px;
+}
+.nav-sm{
+    margin-left: 110px;
+    
+}
+.drop-sm{
+    margin-left: -160px;
+    margin-top: 50px;
+}
+.col-text h3 {
+    margin-left: 60px;
+}
+.img-sm{
+    margin-top: 60px;
+}
+.middle-col h3 {
+    margin-top: -247px;
+}
+.img3-sm {
+    margin-top: 20px;
+}
+.banner-col {
+    padding-top: 25px;
+    background: whitesmoke;
+    padding-bottom: 60px;
+}
+.heading {
+   margin-top: -110px;    
+}
+.right-child {
+    height: 146px;
+}
+.heading-right {
+    margin-top: -110px;
+}
+.middle-col-fix {
+    margin: 10px 10px 10px 14px;
+}
+.col-border {
+    margin-right: 10px;
+}
+.brand {
+    margin-left: 65px;
+}
+.shipping {
+    background-color: #fff;
+    padding: 60px 0px 50px 90px;
+}
+.shipping-col{
+    margin-top: 15px;
+}
+.discount{
+    margin-left: -30px;
+
+}
+.img-footer {
+    height: 260px;
+    margin: 20px 0 0 0px;
+}
+}
